@@ -1,4 +1,4 @@
-# <Bootcamp-Quiz>
+## <Bootcamp-Quiz>
 
 This quiz is timed and contains multiple choice questions on the following topics:
 
@@ -20,7 +20,7 @@ Don't forget to enter your intials to see how you compare to other players.
 Click on the purple Start Quiz button:
 
     
-    ![image](assets/images/screenshot.png)
+   ![image](assets/images/screenshot.png)
     
 
 ## Credits
