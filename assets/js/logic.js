@@ -1,7 +1,7 @@
 // this file for all other elments of the quiz, such as the timer, question feeedback and...
 
 
-// Timer - lesson 1 ex 10
+// Timer - code is from week 5 lesson 1 activity 10
 
 
 var timerEl = document.getElementById('time');
