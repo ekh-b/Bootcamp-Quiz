@@ -3,6 +3,8 @@
 
 // Timer - code is from week 5 lesson 1 activity 10
 
+// logic is like the team profile
+
 
 var timerEl = document.getElementById('time');
 var mainEl = document.getElementById('start-screen');
