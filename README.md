@@ -1,4 +1,4 @@
-## <Bootcamp-Quiz>
+## Bootcamp-Quiz
 
 This quiz is timed and contains multiple choice questions on the following topics:
 
@@ -25,9 +25,9 @@ Click on the purple Start Quiz button:
 
 ## Credits
 
-Worked with instrcutor during office hours to start working.
+Worked with instrcutor during office hours to get the timer to start working.
 
 ## License
 
-Please refer to the LICENSE in the repo.
 
+[MIT](https://choosealicense.com/licenses/mit/)

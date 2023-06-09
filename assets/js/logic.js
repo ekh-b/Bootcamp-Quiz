@@ -40,7 +40,7 @@ function countdown() {
     // Uses the `setInterval()` method to call a function to be executed every 1000 milliseconds
     var msgInterval = setInterval(function () {
       // If there are no more words left in the message
-      if (words[wordCount] === undefined) {
+      if (words[wordCount] === test) {
         // Use `clearInterval()` to stop the timer
         clearInterval(msgInterval);
       } else {
